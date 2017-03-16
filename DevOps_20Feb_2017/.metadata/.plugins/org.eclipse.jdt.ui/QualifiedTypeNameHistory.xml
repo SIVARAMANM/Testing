@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="com.capgemini.exceptions.InvalidAccountNumberException"/>
+<fullyQualifiedTypeName name="com.capgemini.exceptions.InsufficientBalanceException"/>
+<fullyQualifiedTypeName name="com.capgemini.repository.AccountRepository"/>
+<fullyQualifiedTypeName name="org.mockito.MockitoAnnotations"/>
+<fullyQualifiedTypeName name="com.capgemini.service.AccountServiceImpl"/>
+<fullyQualifiedTypeName name="com.capgemini.exceptions.InsufficientInitialAmountException"/>
+<fullyQualifiedTypeName name="com.capgemini.model.Account"/>
+<fullyQualifiedTypeName name="org.mockito.Mock"/>
+<fullyQualifiedTypeName name="org.mockito.Mockito"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+</qualifiedTypeNameHistroy>

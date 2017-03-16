@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item value="LOCAL_INSTALLATION" key="gradle_distribution_type"/>
+		<item value="true" key="use_default_location"/>
+		<item value="C:\Program Files\Java\jdk1.8.0_111" key="java_home"/>
+		<item value="D:\gradle-2.14.1" key="gradle_distribution_configuration"/>
+		<item value="D:\Softwares\DevOps_20Feb_2017\MyFirstGradleProjectInEclipse" key="project_location"/>
+	</section>
+</section>
